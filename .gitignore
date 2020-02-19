@@ -1,0 +1,6 @@
+# Project exclude paths
+/hello-spring-cloud-dependencies/target/
+/hello-spring-cloud-eureka/target/
+/hello-spring-cloud-service-admin/target/
+/hello-spring-cloud-web-admin-feign/target/
+/hello-spring-cloud-web-admin-ribbon/target/
